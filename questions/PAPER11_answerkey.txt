@@ -1,0 +1,14 @@
+Answers 
+--------------------
+
+1) 10
+2) compile error
+3) 40, 40
+4) 3,3,2
+5) Program, Program
+6) 24,12,4
+7) 20,4,4
+8) compile error
+9) 4,6,8
+10) 50
+
